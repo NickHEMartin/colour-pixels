@@ -7,3 +7,5 @@ In this commit I made the first layer in the masks using toms smartmask feature.
 With the first layer of masks it was useful to use this technique, but now I will have to photoshop and recode to fit in the masks as my code only cooperates with 2 different colours for the mask and I need it to work with 3 colours. Now I need to photoshop the greenery into the masks.
 
 In this commit I have added the third layer to the masks and coded that into the sketch file. There is a little bit to do for this project, but I think that the only pixel type that needs improving is the person one because I think the nature pixel and the background pixel work really well to display nature and the background, but the person one needs itterating. 
+
+Github doesnt open the files properly so the best way to view them is downloading the files and opening up the index.html file to view to view the clock.
